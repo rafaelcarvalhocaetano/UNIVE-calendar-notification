@@ -1,7 +1,7 @@
 ### About
 
  - Micro-service for application UNIVE ``` [url](https://github.com/rafaelcarvalhocaetano/Unive) ``` with NodeJS and Lambda AWS.
- - Using serverless framework for aws integration and template creation ``` [url](https://www.serverless.com/framework/docs/getting-started) ```
+ - Using serverless framework for aws integration and template creation ``` https://www.serverless.com/framework/docs/getting-started ```
 
  - ENDPOINTS ``` under construction, no integration with dynamoDB ```
   ```
